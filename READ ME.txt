@@ -1,0 +1,1 @@
+COMPILE o TelegramBot em 32 BITS para funcionar!
